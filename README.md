@@ -1,7 +1,7 @@
 # MATLAB_ML
 Machine learning projects developed in MATLAB.
 
-# melanomaNet
+# MelanomaNet
 
 Instructions
 
@@ -17,4 +17,5 @@ Instructions
 Visualization of classified test images
 ![Alt text](images/melanomaNet_result.png)
 
-   
+MelanomaNet accuracy for within and validation datasets
+![Alt text](images/accuracy.png)
